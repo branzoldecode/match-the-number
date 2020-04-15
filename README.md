@@ -1,4 +1,4 @@
-# math-the-number
+# match-the-number
 A program that match number (y) after giving it number ( x)
 
 1-First we import numpy and keras
